@@ -1,0 +1,21 @@
+{
+  "name": "searchfile",
+  "version": "1.0.0",
+  "description": "node 爬取图片文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "image"
+  ],
+  "author": "rianbow",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0",
+    "superagent": "^3.6.0"
+  }
+}
